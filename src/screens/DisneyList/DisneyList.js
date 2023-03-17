@@ -3,7 +3,7 @@ import { View, Text, Image, FlatList, Linking } from 'react-native';
 import styled from 'styled-components/native';
 
 const API_URL = 'https://api.disneyapi.dev/characters';
-
+//bb
 
 const App = () => {
   const [characters, setCharacters] = useState([]);
